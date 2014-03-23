@@ -7,11 +7,11 @@ permalink:        pretty
 
 # Setup
 title:            Laminar Flow
-tagline:		  'Time-averaged stuff'
-description:      'Time-averaged stuff'
+tagline:		  'time-averaged stuff'
+description:      'time-averaged stuff'
 url:              http://nmcintosh.github.io
 
 author:
   name:           'Nick McIntosh'
 
-paginate:         5
+paginate:         1

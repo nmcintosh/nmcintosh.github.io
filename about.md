@@ -4,7 +4,7 @@ title: About
 ---
 # Nick McIntosh #
 
-> In short, I am a student living and studying in beautiful Vancouver, British Columbia, Canada. I am quite fond math, computers, 	and above all, figuring out how they can be used to solve *actual* problems. I hope this site will act as a conduit to share my experiences and learnings.
+In short, I am a student living and studying in beautiful Vancouver, British Columbia, Canada. I am quite fond math, computers, and above all, figuring out how they can be used to solve *actual* problems. I hope this site will act as a conduit to share my experiences and learnings.
 
 If nothing else, just remember:
 

@@ -12,4 +12,4 @@ $$
 \rho \frac{\mathrm{D}\mathbf{v}}{\mathrm{D}t} = -\nabla p + \nabla^2\mathbf{v} + \mathbf{g}
 $$
 
-This blog is hosted on [Github](https://github.com/) and uses the [Hyde theme](http://hyde.getpoole.com/) developed by Mark Otto.
+This blog is hosted on [GitHub](https://github.com/) and uses the [Hyde](http://hyde.getpoole.com/) theme developed by Mark Otto.

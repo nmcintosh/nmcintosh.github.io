@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started
+title: Y'all Ready for This
 ---
 
-This is a test, lets try it out!
+Space jam reference test post.

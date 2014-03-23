@@ -1,3 +1,16 @@
-name: Interphase Transport
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Laminar Flow
+description:      'Time averaged stuff'
+url:              http://nmcintosh.github.io
+
+author:
+  name:           'Nick McIntosh'
+
+paginate:         5

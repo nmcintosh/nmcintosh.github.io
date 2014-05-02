@@ -29,3 +29,5 @@ $$
 $$
 
 On the surface, this is a huge complicated pile of garbage. Instead it is the process I had to work through to get to it that I deem valuable: I was able to shed light on the actual problem at hand. It goes to show (to me at least), how rich and complex of a system I am dealing with. The above equation enables me to pose an intelligent, complete, and relevant problem; that's a good thing, to be sure. In my case, I hope to look into what goes on with $$l$$ if $$R$$, too, is a function of time.
+
+NM

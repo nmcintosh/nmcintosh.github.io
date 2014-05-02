@@ -11,7 +11,7 @@ While preparing for finals, I came upon a problem I thought was pretty neat and 
 
 What we are tasked with figuring out is which sphere will hit the ground first and if that result would be the same if the sphere was fired horizontally very slowly.
 
-This kinematic sort of stuff begs to have a force balance performed. We shall oblige.
+This kinetic sort of stuff begs to have a force balance performed. We shall oblige.
 
 There are three forces at play on the spheres:
 

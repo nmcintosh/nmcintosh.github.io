@@ -25,7 +25,7 @@ $$
 \mathbf{F}_\mathrm{net} = (F_2 - F_3)\delta_y - F_1\mathbf{n},
 $$
 
-where $$\mathbf{n}$$ is normal to the spheres motion.
+where $$\mathbf{n}$$ is normal to the sphere's motion.
 
 Now, the gravity and buoyancy forces are equal to the product of the sphere's volume and the density of the sphere ($$\rho_s$$) and the air ($$\rho$$), respectively. The frictional drag force is proportional to the product of its charachteristic area ($$\pi R^2$$) and kinetic energy ($$\frac{1}{2}\rho_sv^2$$) by a constant known as a friction factor ($$f$$). Substituting all of this and replacing the force on the left of the equality with a rate of momentum change we get:
 
@@ -59,7 +59,7 @@ $$
 
 Now we are getting somewhere. Next, since we care about the vertical *'who touches the ground first'* kind of motion, let's look at what form $$a_y$$ takes for the dropped and fired spheres.
 
-Working from left to right, we see both the fired and dropped spheres will include the same gravity/buoyancy term, however the definition of the velocity magnitude, $$v$$, in the second term will change. In the case of the dropped sphere, $$v_x = 0$$ and so $$v = v_y$$, but in the case of the fired sphere $$v$$ will include a $$v_x$$ term and be equal to $$\sqrt(v_x^2 + v_y^2$$).
+Working from left to right, we see both the fired and dropped spheres will include the same gravity/buoyancy term, however the definition of the velocity magnitude, $$v$$, in the second term will change. In the case of the dropped sphere, $$v_x = 0$$ and so $$v = v_y$$, but in the case of the fired sphere $$v$$ will include a $$v_x$$ term and be equal to $$\sqrt{v_x^2 + v_y^2}$$.
 
 Now, since:
 

@@ -20,7 +20,7 @@ $$
 
 Great, I thought, but what if there are other driving forces and/or losses? In brief, I spent a good half-day deriving another equation which took into account the effect of an expanding capillary (think squishing a straw, closing off the ends and then trying to get the straw back to it's original form, the straw is going to want to 'suck' stuff in). Fantastic: I got to do some math and ended up with a result which physically made sense. In fact, *my* equation matched exactly that given by Washburn! It took a little while but I eventually realized I spent half of a day re-doing the algebra from a paper I had just read which was published in 1921\.
 
-Later that same day I met with my supervisor and the lesson for the week presented itself. I was assured that the capillary flow direction was a good one to snoop around in, this felt good. Although it was clear I lacked an understanding of what was going on within the approach to the problem and was asked to consider the most general case possible and get a relation between the penetration distance and time (the wood soaking up liquid problem I am looking is a transient one), I did so and learned a heck of a lot because I did. What I ended up with is a force balance which I can delete terms from as I deem appropriate. For a capillary of radius $$R$$, inclined from the horizontal by an angle of $$\psi$$, it looks like:
+Later that same day I met with my supervisor and the lesson for the week presented itself. I was assured that the capillary flow direction was a good one to snoop around in, this felt good. Although it was clear I lacked an understanding of what was going on within the approach to the problem and was asked to consider the most general case possible and get a relation between the penetration distance and time (the wood soaking up liquid problem I am looking is a transient one), I did so and learned a heck of a lot because I did. What I ended up with is a force balance which I can delete terms from as I deem appropriate. For a capillary of radius \\(R\\), inclined from the horizontal by an angle of \\(\psi\\), it looks like:
 
 $$
 \frac{2\gamma\cos\theta}{R} = \rho g l \sin(\psi) +
@@ -28,6 +28,6 @@ $$
                               \rho\frac{\mathrm{d}}{\mathrm{d}t}\left(l\frac{\mathrm{d}l}{\mathrm{d}t}\right)
 $$
 
-On the surface, this is a huge complicated pile of garbage. Instead it is the process I had to work through to get to it that I deem valuable: I was able to shed light on the actual problem at hand. It goes to show (to me at least), how rich and complex of a system I am dealing with. The above equation enables me to pose an intelligent, complete, and relevant problem; that's a good thing, to be sure. In my case, I hope to look into what goes on with $$l$$ if $$R$$, too, is a function of time.
+On the surface, this is a huge complicated pile of garbage. Instead it is the process I had to work through to get to it that I deem valuable: I was able to shed light on the actual problem at hand. It goes to show (to me at least), how rich and complex of a system I am dealing with. The above equation enables me to pose an intelligent, complete, and relevant problem; that's a good thing, to be sure. In my case, I hope to look into what goes on with \\(l\\) if \\(R\\), too, is a function of time.
 
 NM
